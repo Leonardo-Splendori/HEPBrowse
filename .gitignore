@@ -1,0 +1,8 @@
+*.pyc
+
+testdata/*
+test_scripts/*
+
+build/
+dist/
+src/hepbrowse.egg-info/
