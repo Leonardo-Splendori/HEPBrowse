@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "hepbrowse"
-version = "0.1.3"
+version = "0.1.4"
 description = "Interactive TUI for exploring HEP data files"
 authors = [{ name = "Leonardo Splendori" }]
 readme = "README.md"
