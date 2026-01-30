@@ -6,9 +6,6 @@ HEPBrowse is a terminal-based browser for High-Energy Physics data files (`.h5` 
 
 - Browse the internal structure of HEP data files
 - Visualize datasets with in-terminal plots
-- Apply cuts and filters interactively
-- Generate boilerplate Python code for data analysis
-- Export data subsets and convert formats
 
 ## Getting Started
 
