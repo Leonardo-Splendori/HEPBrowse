@@ -10,10 +10,6 @@ authors = [{ name = "Leonardo Splendori" }]
 readme = "README.md"
 requires-python = ">=3.10"
 
-[project.urls]
-Homepage = "https://github.com/Leonardo-Splendori/HEPBrowse"
-Issues = "https://github.com/Leonardo-Splendori/HEPBrowse/issues"
-
 dependencies = [
     "textual",
     "textual-plotext",
@@ -24,6 +20,10 @@ dependencies = [
     "awkward",
     "pyyaml",
 ]
+
+[project.urls]
+Homepage = "https://github.com/Leonardo-Splendori/HEPBrowse"
+Issues = "https://github.com/Leonardo-Splendori/HEPBrowse/issues"
 
 [tool.setuptools]
 package-dir = {"" = "src"}
